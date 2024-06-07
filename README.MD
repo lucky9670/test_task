@@ -81,3 +81,9 @@ Note:
 - Review how the frontend and stripe subscriptions are working
 - Add Swagger or Redoc API documentation for Django restful API endpoints (Write down well-organized and well-documented API reference)
 - Create a new repository to your personal git and commit the result.
+
+# Task Done 
+- Clone created and run in local system successfully
+- Reviewed and tested with UI
+- Swagger and Redoc API documention
+- Created a new repo and pushed updated code.
